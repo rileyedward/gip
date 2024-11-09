@@ -35,7 +35,7 @@ Ensure you have the following prerequisites installed on your system. You can ve
 To make a work-in-progress commit, simply run:
 
 ```bash
-sudo mv gip /usr/local/bin
+gip
 ```
 
 This will make a git commit in your current directory with a message of "wip"
