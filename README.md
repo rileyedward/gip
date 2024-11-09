@@ -19,7 +19,7 @@ Ensure you have the following prerequisites installed on your system. You can ve
 1. Build the application:
 
    ```bash
-   go build
+   go build -o gip main.go
    ```
 
 2. Install the executable:
