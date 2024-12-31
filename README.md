@@ -14,8 +14,8 @@ Not everyone wants to use a full-fledged Git client like Kraken or GitTower. gip
 
 ### Key Features
 
-- Quickly make a "WIP commit" for all the work you currently have in-progress.
-- Rebase all recent "WIP commits" into a single commit with a provided message.
+- **WIP Commit**: Quickly make a commit for all the work you currently have in-progress.
+- **WIP Rebasing**: Rebase all recent "WIP Commits" into a single commit with a provided message.
 
 ## Getting Started
 
