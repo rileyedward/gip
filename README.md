@@ -1,6 +1,21 @@
 # gip
 
-gip is the perfect CLI tool for developers who struggle with micro-commits, making it much simpler to use work-in-progress commits.
+CLI tool for work-in-progress commits
+
+## Overview
+
+### What is gip?
+
+gip is a lightweight command-line tool designed to streamline work-in-progress (WIP) commits for developers. If you often find yourself juggling micro-commits during development, gip helps you manage them efficiently without complicating your Git workflow.
+
+### Why Use gip?
+
+Not everyone wants to use a full-fledged Git client like Kraken or GitTower. gip is perfect for developers who prefer working directly from the command line but still want enhanced tooling to simplify their Git workflow. It’s built for convenience, speed, and minimalism.
+
+### Key Features
+
+- Quickly make a "WIP commit" for all the work you currently have in-progress.
+- Rebase all recent "WIP commits" into a single commit with a provided message.
 
 ## Getting Started
 
